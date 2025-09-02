@@ -328,6 +328,14 @@ img {
   margin-top: 5px;
 }
 
+.project-title{
+  font-weight: var(--font-semi);
+  color:hsl(var(--hue-color), 56%, 12%);
+  margin-top: 5px;
+  text-align: center;
+}
+
+
 
 /* ===== CONTACT =====*/
 .contact__input {
